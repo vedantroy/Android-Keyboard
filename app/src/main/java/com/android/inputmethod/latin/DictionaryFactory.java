@@ -28,6 +28,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Locale;
 
+import rstudio.vedantroy.imetest2.R;
+
 /**
  * Factory for dictionary instances.
  */

@@ -34,6 +34,8 @@ import java.util.Locale;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
+import rstudio.vedantroy.imetest2.R;
+
 /**
  * Enrichment class for InputMethodSubtype to enable concurrent multi-lingual input.
  *

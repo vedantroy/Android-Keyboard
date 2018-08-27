@@ -31,6 +31,8 @@ import java.util.Set;
 
 import javax.annotation.Nonnull;
 
+import rstudio.vedantroy.imetest2.R;
+
 /**
  * A class for detecting Emoji-Alt physical key.
  */
