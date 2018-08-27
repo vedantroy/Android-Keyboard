@@ -30,7 +30,7 @@ import android.preference.SwitchPreference;
 import android.text.TextUtils;
 
 import com.android.inputmethod.dictionarypack.DictionarySettingsActivity;
-import com.android.inputmethod.latin.R;
+import rstudio.vedantroy.imetest2.R;
 import com.android.inputmethod.latin.permissions.PermissionsManager;
 import com.android.inputmethod.latin.permissions.PermissionsUtil;
 import com.android.inputmethod.latin.userdictionary.UserDictionaryList;

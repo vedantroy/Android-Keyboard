@@ -107,6 +107,9 @@ import java.util.concurrent.TimeUnit;
 
 import javax.annotation.Nonnull;
 
+//import rstudio.vedantroy.imetest2.R;
+import rstudio.vedantroy.imetest2.R;
+
 /**
  * Input method implementation for Qwerty'ish keyboard.
  */

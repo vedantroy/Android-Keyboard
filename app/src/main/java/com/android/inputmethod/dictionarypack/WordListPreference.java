@@ -26,7 +26,7 @@ import android.view.ViewParent;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.android.inputmethod.latin.R;
+import rstudio.vedantroy.imetest2.R;
 
 import java.util.Locale;
 
