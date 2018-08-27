@@ -20,12 +20,11 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- Original colors.xml -->
+    <!-- Original colors -->
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <!-- Keyboard colors.xml -->
 
     <!-- Color resources for IceCreamSandwich theme. Base color = 33B5E5 -->
     <!-- android:color/holo_blue_light value is #FF33B5E5 -->
